@@ -6,7 +6,7 @@
 export default {
     data () {
         return {
-            data: ' test '
+            data: '  jenkins test '
         }
     }
 }
