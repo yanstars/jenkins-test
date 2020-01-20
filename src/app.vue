@@ -39,7 +39,7 @@
                 p-id="714"
             />
         </svg>
-        <h3>What are you lookng for?</h3>
+        <h3>What are you looking for?</h3>
     </div>
 </template>
 
