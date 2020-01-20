@@ -1,12 +1,12 @@
 <template>
-    <div>im a {{data}}</div>
+    <p>???</p>
 </template>
 
 <script>
 export default {
     data () {
         return {
-            data: '  jenkins test '
+
         }
     }
 }
