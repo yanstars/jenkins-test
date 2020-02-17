@@ -39,7 +39,7 @@
                 p-id="714"
             />
         </svg>
-        <h3>What are you looking for?</h3>
+        <h3>{{message}}</h3>
     </div>
 </template>
 
@@ -47,7 +47,7 @@
 export default {
     data () {
         return {
-
+            message: 'What are you looking for?'
         }
     }
 }
